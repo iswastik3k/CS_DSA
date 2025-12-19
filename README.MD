@@ -3,5 +3,6 @@
 - Folder Structure
 ```
 CS-DSA/
-└── 01-arrays/
+├── 01-arrays/
+└── 02-vectors/
 ```
