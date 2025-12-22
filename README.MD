@@ -3,6 +3,9 @@
 - Folder Structure
 ```
 CS-DSA/
+├── 00-Practice-Sets/
+│   └── set-01/
 ├── 01-arrays/
-└── 02-vectors/
+├── 02-vectors/
+└── 03-matrix/
 ```
